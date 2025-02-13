@@ -97,9 +97,6 @@ A well-structured data model is critical for efficient report performance. Poor 
   ## Marketing View
   <img width="724" alt="Marketing view" src="https://github.com/user-attachments/assets/7fac5238-9cd5-48f1-85a1-91e27ad145e8" />
 
-  ## Supply Chain View
-  <img width="726" alt="supply chain view" src="https://github.com/user-attachments/assets/4ddca437-96dc-4bbd-aa5d-ced139bccd2d" />
-
   ## Executive View
   <img width="722" alt="Executive view" src="https://github.com/user-attachments/assets/ca488bc0-6cc4-4ef5-b993-0858811a306a" />
 
