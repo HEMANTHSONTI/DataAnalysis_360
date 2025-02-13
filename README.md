@@ -76,3 +76,7 @@ A well-structured data model is critical for efficient report performance. Poor 
 - Ensuring efficient query execution
 - Enhancing visualization and interactivity
   
+  <img width="629" alt="model view" src="https://github.com/user-attachments/assets/4497d821-8c93-460d-8951-1f06ba0656d1" />
+
+  
+
